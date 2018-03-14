@@ -6,10 +6,11 @@ Data was collected from USGS website where we were able to gather earthquake jso
 According to the information collected, the U.S. has had a few earthquakes in the west coast, but nothing too major.  There have been more harsh earthquakes in the Pacific, specifically clost to Australia and the Pacific.  
 
 
-=======================================================================================================================
-
-
 ![1-Logo](Images/result_map.png)
+
+=======================================================================================
+
+
 
 
 # Unit 17 | Assignment - Visualizing Data with Leaflet
